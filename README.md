@@ -1,7 +1,16 @@
 # Secure-Coding
 
-Security Policy located in M6<br>
-Presentation located in M7<br><br>
+Security Policy (Project One) located in M6 Directory<br>
+Presentation (Project Two) located in M7 Directory<br><br>
+
+M1/ Numeric Overflow coding<br>
+M2/ Buffer Overflow, Preventing SQL Injection, and Defense-in-Depth<br>
+M3/ Security Policy - Part 1<br>
+M4/ Exceptions and Unit Testing (Google tests)<br>
+M5/ Encryption Coding, Static Code Analysis, and Case Study: Triple A and Defense-in-Depth<br>
+M6/ Security Policy<br>
+M7/ Presentation<br>
+M8/ Portfolio Reflection<br>
 
 Portfolio Reflection <br>
 <br>
