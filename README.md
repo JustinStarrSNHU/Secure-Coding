@@ -1,18 +1,29 @@
 # Secure-Coding
 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# Hello, and welcome to the Secure Coding Repository of my Academic Projects🖐️
+
+Focused on solving common security vulnerabilities (e.g. Numeric/Buffer Over/Under flows and SQL Injection) found in software and writing secure code to mitigate risks to software and data. Used static analysis tools, such as the C++ CppCheck tool to help identify security vulnerabilities. Learned Defense-in-Depth Strategy, Zero-Trust methodology & Principle of Least Privilege, implementation of security policies, writing/handling exceptions, testing using Google tests, and employing encryption techniques.
+
+# 📖 Table of Contents
+
 Security Policy (Project One) located in M6 Directory<br>
 Presentation (Project Two) located in M7 Directory<br><br>
 
-M1/ Numeric Overflow coding<br>
-M2/ Buffer Overflow, Preventing SQL Injection, and Defense-in-Depth<br>
-M3/ Security Policy - Part 1<br>
-M4/ Exceptions and Unit Testing (Google tests)<br>
-M5/ Encryption Coding, Static Code Analysis, and Case Study: Triple A and Defense-in-Depth<br>
-M6/ Security Policy<br>
-M7/ Presentation<br>
-M8/ Portfolio Reflection<br>
+> 📌 M1/ Numeric Overflow coding 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Secure-Coding/tree/main/M1)<br>
+📌 M2/ Buffer Overflow, Preventing SQL Injection, and Defense-in-Depth 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Secure-Coding/tree/main/M2)<br>
+📌 M3/ Security Policy - Part 1 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Secure-Coding/tree/main/M3)<br>
+📌 M4/ Exceptions and Unit Testing (Google tests) 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Secure-Coding/tree/main/M4)<br>
+📌 M5/ Encryption Coding, Static Code Analysis, and Case Study: Triple A and Defense-in-Depth 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Secure-Coding/tree/main/M5)<br>
+📌 M6/ Security Policy 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Secure-Coding/tree/main/M6)<br>
+📌 M7/ Presentation 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Secure-Coding/tree/main/M7)<br>
+📌 M8/ Portfolio Reflection 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Secure-Coding/tree/main/M8)<br>
 
-Portfolio Reflection <br>
+# Portfolio Reflection <br>
 <br>
 	The adoption of a secure coding standard is essential and should be implemented as part of a security policy to help mitigate and reduce the likelihood of vulnerabilities being introduced in code. Mitigating these potential vulnerabilities also helps to prevent exposing a companies infrastructure where an attacker might be able to gain access to various systems and conduct malicious activities, such as the theft of data, or even cause systems to stop functioning correctly. Additionally, adopting a secure coding standard helps increase the quality of products as well as resilience against cyber attacks by implementing security throughout the Software Development Lifecycle (SDLC). Oftentimes, companies following a straightforward DevOps methodology leave security till the end instead of incorporating security throughout the SDLC, which can lead to time consuming and costly side effects. Leaving security until the end increases the likelihood that mistakes will be made, which can introduce vulnerabilities in software that can go unnoticed. If vulnerabilities are discovered in software during the testing phase or even worse, during deployment, it can cost an organization not only a great amount of time, but a large amount of financial resources to remediate the issue. In some cases, a project may even have to be scrapped altogether because the organization does not have the financial resources to remediate the issue at such a late stage in the project. 
 
